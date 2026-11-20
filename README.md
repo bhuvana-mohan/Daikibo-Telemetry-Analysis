@@ -35,11 +35,13 @@ Combined both charts into one dashboard and enabled the factory filter.
 
 Selecting a factory in the first chart dynamically updates the second chart to display the corresponding machine downtime.
 
-## Dashboard Preview
 
-Add your completed dashboard screenshot here:
+# Daikibo Telemetry Data Analysis – Tableau
 
-![Daikibo Telemetry Dashboard](dashboard.png)
+## 📊 Dashboard Preview
+
+![Daikibo Tableau Dashboard](Daikibo_Dashboard.png)
+
 
 ## Key Learning Outcomes
 - Understanding Tableau's Data pane and calculated fields.
